@@ -12,3 +12,7 @@ Since they should be iduvidually controllable, this is no issue.
 I have properly grounded the PCB using groundplains to ensure proper functionality.
 I have tried to size the PCB properly, but this might have been an issue. Its ~87.25mm x 56.24mm.
 The case that I designed is small and ensures proper acces to all io.
+
+NOTE:
+
+I tried my best, but this is my first PCB. So if there are any issues please tell them and I will try to solve them.
