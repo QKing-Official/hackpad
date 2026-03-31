@@ -1,0 +1,6 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16",LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm,16,SK6812MINI,
+"SW1, SW2, SW3, SW4, SW5, SW6",Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,6,SW_Push,
+U1,OPL_Xiao:XIAO-RP2040-DIP,1,XIAO-RP2040-DIP,
+J1,0.91_OLED_display:SSD1306-0.91-OLED-4pin-128x32,1,Conn_01x04,
+"SW1, SW2, SW3, SW4, SW5, SW6 (Keycaps)",Keycap_MX_1u,6,Keycap_1u,
